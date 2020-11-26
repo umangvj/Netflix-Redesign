@@ -1,4 +1,4 @@
-# netflixredesign
+# Netflix Redesign
 
 A new Flutter application.
 
